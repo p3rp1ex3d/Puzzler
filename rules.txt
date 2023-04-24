@@ -1,0 +1,5 @@
+1.The aim of the game is to move the disks in tower 1 to tower 3 in minimum number of moves.
+2.You can only place a smaller disc on top of the bigger one.
+3.The right and left arrow keys in the keyboard helps traverse through the towers.
+4.The up and down arrow keys will help you lift the disks and place the disks respectively.
+5.Placing a disk counts as one move.

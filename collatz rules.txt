@@ -1,0 +1,1 @@
+Collatz conjecture is a seemingly easy problem that hasn’t been solved till now and states that any number can become 1 after following a given algorithm. If a number ‘n’ is even, it becomes n/2 and if it is odd, it becomes 3n+1. This goes on till it reduces to 1. This game hopes to help people understand the idea with the help of a graph. 

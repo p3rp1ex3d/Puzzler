@@ -1,0 +1,9 @@
+This game is a simulation of how a virus spreads from one person to
+another. In the game, a red box indicates a person infected with the
+virus and a white box indicates a person who does not have the virus.
+Every time you press the right arrow button, it is counted as the next
+day. Initially, in the simulation, each person starts off with some
+random immunity levels. A few days after getting the virus they again
+become virus-free(white box) with a new immunity level. Does the
+spreading of virus ever come to an end? If so, when? This is the 
+question the game tries to answer. 
